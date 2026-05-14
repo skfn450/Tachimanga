@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Meine Repo",
+    "pkg": "tachimanga.repo",
+    "apk": "https://example.com/test.apk",
+    "lang": "de",
+    "version": "1.0"
+  }
+]
